@@ -15,6 +15,7 @@ Requires powerline, see [this install reference](https://www.baeldung.com/linux/
 Better split commands;
 
  Ctrl-t | = Vertical split
+
  Ctrl-t - = horizontal split
 
 Moving through windows with Alt-Arrow keys (works nicely with my nvim settings)
