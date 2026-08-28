@@ -2,7 +2,7 @@
 
 My personal tmux config file. Use as
 
- $ cp tmux.conf ${HOME}/.config/tmux/.tmux.conf
+ $ cp tmux.conf ${HOME}/.config/tmux/tmux.conf
 
 # changes from default behavior
 
