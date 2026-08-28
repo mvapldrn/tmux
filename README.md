@@ -2,7 +2,6 @@
 
 My personal tmux config file. Use as
 
- $ mkdir ${HOME}/.config/tmux
  $ cp tmux.conf ${HOME}/.config/tmux/.tmux.conf
 
 # changes from default behavior
